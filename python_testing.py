@@ -1,4 +1,4 @@
-site_name = "Hi. My name is Noluthando"
+site_name = "Hi. My name is Noluthando "
 print(site_name)
 
 # Assigning new value to site_name
